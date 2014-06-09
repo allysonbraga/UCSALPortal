@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UCSAL Portal</string>
+    <string name="title_section1">Notas</string>
+    <string name="title_section2">Faltas</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="titulo">Materia</string>
+    <string name="subtitulo">0</string>
+
+</resources>
